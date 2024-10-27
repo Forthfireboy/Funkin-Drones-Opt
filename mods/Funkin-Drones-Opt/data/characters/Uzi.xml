@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="205" y="422" sprite="uzi" scale="2" camx="50" camy="30" icon="Uzi" holdTime="6.1" isGF="false">
+	<anim name="idle" anim="Uzi_Idle0" x="0" y="0" fps="16" loop="false"/>
+	<anim name="singDOWN" anim="Uzi_Sprite_Down-0" x="-20" y="-6" fps="16" loop="false"/>
+	<anim name="singLEFT" anim="Uzi_Sprite_Left-0" x="0" y="3" fps="16" loop="false"/>
+	<anim name="singRIGHT" anim="Uzi_Sprite_Right-0" x="-20" y="-5" fps="16" loop="false"/>
+	<anim name="singUP" anim="Uzi_Sprite_Up-0" x="-20" y="-10" fps="16" loop="false"/>
+	<anim name="Pissed" anim="Pissed0" x="0" y="0" fps="16" loop="false" indices="0..5,1..5,1..5,1..5"/>
+	<anim name="Pissed2" anim="Pissed3-0" x="0" y="0" fps="16" loop="false" indices="0..4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4"/>
+</character>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="storymode.png" width="6347" height="781">
+	<SubTexture name="off" x="1" y="1" width="1584" height="779" rotated="true" frameX="-38" frameY="-0" frameWidth="873" frameHeight="1734"/>
+	<SubTexture name="on1" x="1588" y="1" width="1584" height="779" rotated="true" frameX="-38" frameY="-0" frameWidth="873" frameHeight="1734"/>
+	<SubTexture name="on2" x="3175" y="1" width="1584" height="779" rotated="true" frameX="-38" frameY="-0" frameWidth="873" frameHeight="1734"/>
+	<SubTexture name="on3" x="4762" y="1" width="1584" height="779" rotated="true" frameX="-38" frameY="-0" frameWidth="873" frameHeight="1734"/>
+</TextureAtlas>

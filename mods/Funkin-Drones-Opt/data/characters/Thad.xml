@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="18" y="525" sprite="Thad" scale="1.95" camx="50" camy="30" icon="Thad" holdTime="6.1" isGF="false">
+	<anim name="idle" anim="Thad_Sprite_Idle-" x="-21" y="-7" fps="16" loop="false"/>
+	<anim name="singLEFT" anim="Thad_Left_-" x="-28" y="-6" fps="16" loop="false"/>
+	<anim name="singDOWN" anim="Thad_Down_-" x="-50" y="-13" fps="16" loop="false"/>
+	<anim name="singUP" anim="Thad_Up-" x="-42" y="-5" fps="16" loop="false"/>
+	<anim name="singRIGHT" anim="Thad_Sprite_-" x="-21" y="-5" fps="16" loop="false"/>
+	<anim name="Entry" anim="Thad_Entry-" x="-21" y="-5" fps="15" loop="false"/>
+</character>

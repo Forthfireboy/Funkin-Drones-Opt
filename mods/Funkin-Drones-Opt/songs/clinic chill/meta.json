@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "Uzi",
+	"difficulties": [
+		"HARD"
+	],
+	"parsedColor": -7376387,
+	"customValues": {},
+	"color": "#8F71FD",
+	"name": "clinic chill",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "clinic chill",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"week": "Old songs",
+	"bpm": 175
+}

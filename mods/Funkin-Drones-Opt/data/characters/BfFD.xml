@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character x="80" y="400" sprite="Bf Funkin Drones" scale="1.75" flipX="true" isPlayer="true" icon="boyfriend" holdTime="6.1" isGF="false">
+	<anim name="idle" anim="Bf_Left_Idle_Sprite" x="0" y="0" fps="16" loop="false"/>
+	<anim name="singLEFT" anim="Bf_sprites_Left-" x="1" y="-1" fps="16" loop="false"/>
+	<anim name="singDOWN" anim="Bf_sprites_Down-" x="1" y="0" fps="16" loop="false"/>
+	<anim name="singUP" anim="Bf_sprites_Up_-" x="1" y="3" fps="16" loop="false"/>
+	<anim name="singRIGHT" anim="Bf_sprites_Right-" x="2" y="1" fps="16" loop="false"/>
+	<anim name="bothering1" anim="Bf_sprites_Bothering_1_-" x="1" y="0" fps="16" loop="false"/>
+	<anim name="bothering2" anim="Bf_sprites_Bothering_2-" x="1" y="0" fps="16" loop="false"/>
+	<anim name="bothering3" anim="Bf_sprites_Bothering_3_" x="1" y="0" fps="16" loop="false"/>
+	<anim name="reactions" anim="Bf_Reactions_Full-" x="-31" y="1" fps="16" loop="false"/>
+	<anim name="idle-alt" anim="Bf_Right_Idle_Sprite-" x="2" y="0" fps="16" loop="false"/>
+	<anim name="singUPmiss" anim="Bf_sprites_Miss_Up_-" x="2" y="3" fps="16" loop="false"/>
+	<anim name="singLEFTmiss" anim="Bf_sprites_Miss_Left_-" x="2" y="-2" fps="16" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF NOTE RIGHT MISS" x="-3" y="-1" fps="16" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF_sprites_Miss_Down-" x="1" y="4" fps="16" loop="false"/>
+	<anim name="LeftFlip" anim="Bf_Left_Flip_Idle_Sprite_-" x="0" y="-1" fps="16" loop="false"/>
+	<anim name="RightFlip" anim="Bf_Right_Flip_Idle_Sprite-" x="0" y="0" fps="16" loop="false"/>
+	<anim name="hey" anim="Bf_Reactions_Full-" x="-35" y="0" fps="16" loop="false" indices="26..31,31,31,31,31,31,31,31,31"/>
+</character>

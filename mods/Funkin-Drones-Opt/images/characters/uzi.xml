@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="uzi.png" width="1441" height="1408">
+	<SubTexture name="Pissed01" x="1" y="1" width="156" height="325" frameX="-61" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed02" x="1" y="329" width="156" height="325" frameX="-59" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed03" x="1" y="985" width="156" height="324" frameX="-60" frameY="-34" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed04" x="1" y="1" width="156" height="325" frameX="-61" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed05" x="1" y="329" width="156" height="325" frameX="-59" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed06" x="1" y="1" width="156" height="325" frameX="-61" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed07" x="1" y="985" width="156" height="324" frameX="-60" frameY="-34" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed08" x="1" y="1" width="156" height="325" frameX="-61" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed3-01" x="1" y="657" width="156" height="325" frameX="-61" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed3-02" x="160" y="164" width="321" height="161" rotated="true" frameX="-56" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed3-03" x="1135" y="327" width="163" height="319" frameX="-54" frameY="-39" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Pissed3-04" x="160" y="474" width="318" height="165" rotated="true" frameX="-52" frameY="-40" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Idle001" x="487" y="1" width="323" height="153" rotated="true" frameX="-60" frameY="-31" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Idle002" x="487" y="157" width="322" height="153" rotated="true" frameX="-61" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Idle003" x="812" y="304" width="320" height="154" rotated="true" frameX="-61" frameY="-34" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Idle004" x="484" y="313" width="320" height="153" rotated="true" frameX="-61" frameY="-35" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Idle005" x="813" y="1" width="323" height="153" rotated="true" frameX="-60" frameY="-31" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Down-01" x="160" y="1257" width="289" height="146" rotated="true" frameX="-77" frameY="-55" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Down-02" x="784" y="1112" width="149" height="283" frameX="-77" frameY="-61" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Down-03" x="1089" y="1112" width="152" height="281" frameX="-77" frameY="-63" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Down-04" x="1244" y="974" width="151" height="280" frameX="-75" frameY="-65" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Down-05" x="936" y="1112" width="150" height="283" frameX="-74" frameY="-62" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Down-06" x="452" y="1257" width="289" height="150" rotated="true" frameX="-74" frameY="-56" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Left-01" x="805" y="610" width="316" height="174" rotated="true" frameX="-28" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Left-02" x="1124" y="649" width="316" height="177" rotated="true" frameX="-24" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Left-03" x="481" y="619" width="316" height="177" rotated="true" frameX="-21" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Left-04" x="160" y="642" width="316" height="175" rotated="true" frameX="-26" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Left-05" x="800" y="787" width="316" height="175" rotated="true" frameX="-26" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Left-06" x="479" y="799" width="316" height="215" rotated="true" frameX="-29" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Left-07" x="160" y="1" width="324" height="160" rotated="true" frameX="-57" frameY="-34" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Right-01" x="798" y="965" width="308" height="144" rotated="true" frameX="-105" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Right-02" x="473" y="1017" width="308" height="142" rotated="true" frameX="-108" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Right-03" x="160" y="1111" width="308" height="143" rotated="true" frameX="-110" frameY="-37" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Right-04" x="160" y="965" width="310" height="143" rotated="true" frameX="-106" frameY="-35" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Right-05" x="1119" y="829" width="310" height="142" rotated="true" frameX="-103" frameY="-36" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Right-06" x="160" y="820" width="313" height="142" rotated="true" frameX="-85" frameY="-33" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Up-01" x="807" y="461" width="319" height="146" rotated="true" frameX="-83" frameY="-26" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Up-02" x="160" y="328" width="320" height="143" rotated="true" frameX="-86" frameY="-25" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Up-03" x="1139" y="1" width="143" height="323" frameX="-86" frameY="-22" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Up-04" x="1285" y="1" width="144" height="323" frameX="-85" frameY="-22" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Up-05" x="812" y="157" width="321" height="144" rotated="true" frameX="-85" frameY="-24" frameWidth="257" frameHeight="358"/>
+	<SubTexture name="Uzi_Sprite_Up-06" x="483" y="469" width="319" height="147" rotated="true" frameX="-81" frameY="-27" frameWidth="257" frameHeight="358"/>
+</TextureAtlas>

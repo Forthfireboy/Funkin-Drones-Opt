@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/stage 1/" zoom="0.9" startCamPosY="400">
+	<sprite x="-650" scrolly="1" sprite="background" y="20" name="background" scrollx="1" scale="1"/>
+	
+	
+	
+	
+	<dad x="-300" y="20" />
+	<bf x="600" scale="1.2"/>
+	<gf scroll="1" alpha="0" x="300"/>
+
+<sprite x="-720" scrolly="1" sprite="table" y="-120" name="table" scrollx="1.5" scale="1.2"/>
+	
+	<combo/>
+</stage>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="freeplay.png" width="1371" height="640">
+	<SubTexture name="off" x="1" y="1" width="348" height="638" frameX="-4" frameY="-4" frameWidth="362" frameHeight="642"/>
+	<SubTexture name="on1" x="352" y="1" width="348" height="638" frameX="-4" frameY="-4" frameWidth="362" frameHeight="642"/>
+	<SubTexture name="on2" x="1040" y="1" width="330" height="635" frameX="-14" frameY="-7" frameWidth="362" frameHeight="642"/>
+	<SubTexture name="on3" x="703" y="1" width="334" height="633" frameX="-15" frameY="-9" frameWidth="362" frameHeight="642"/>
+</TextureAtlas>
